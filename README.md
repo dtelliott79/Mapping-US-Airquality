@@ -21,3 +21,5 @@ Run the Python Script AirQualCleanAndMap.py to:
 
 ## Results
 The result will be a choropleth map of US counties for which data were found, colored to indicate the value of the air quality measure mapped. Three example plots are included in this repository, one for each air quality measure.
+
+Note: The original data files used in the analysis are also included in this repository, though they are not required since the Python Scripts access the web data directly.
