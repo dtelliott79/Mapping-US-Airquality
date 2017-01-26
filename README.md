@@ -20,6 +20,12 @@ Run the Python Script AirQualCleanAndMap.py to:
 * Note: You must insert your own mapbox_access_token. Also, you can customize the resulting map with the parameters under data and layout. For more information, see the Plotly documentation on [choropleth maps in Python](https://plot.ly/python/choropleth-maps/).
 
 ## Results
-The result will be a choropleth map of US counties for which data were found, colored to indicate the value of the air quality measure mapped. Three example plots are included in this repository, one for each air quality measure.
+The result will be a choropleth map of US counties for which data were found, colored to indicate the value of the air quality measure mapped. Three example plots are shown below, one for each air quality measure.
 
-Note: The original data files used in the analysis are also included in this repository, though they are not required since the Python Scripts access the web data directly.
+![test](https://github.com/dtelliott79/Mapping-US-Airquality/blob/master/example_1.jpeg)
+
+![test](https://github.com/dtelliott79/Mapping-US-Airquality/blob/master/example_2.jpeg)
+
+![test](https://github.com/dtelliott79/Mapping-US-Airquality/blob/master/example_3.jpeg)
+
+Note: The original data files used in the analysis are also included in this repository. However, they are not required since the Python Scripts access the web data directly.
